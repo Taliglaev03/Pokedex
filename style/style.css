@@ -8,8 +8,11 @@
 }
 
 body{
+    background-image: url('../img/floresta.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     text-align: center;
-    background: linear-gradient(to bottom,#008000, #fff);
     min-height: 100vh;
 }
 
